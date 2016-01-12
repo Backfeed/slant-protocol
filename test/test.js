@@ -1,6 +1,6 @@
 var _ = require('underscore');
-var chakram = require('chakram');
-expect = chakram.expect;
+var chai = require('chai');
+expect = chai.expect;
 var scenarios = require('./scenarios.json');
 var protocol = require('../src');
 
