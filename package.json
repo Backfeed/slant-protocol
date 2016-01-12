@@ -1,0 +1,25 @@
+{
+  "name": "backfeed-slant-protocol",
+  "version": "1.0.0",
+  "description": "Javascript implementation of slant protocol",
+  "main": "src/index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Backfeed/slant-protocol.git"
+  },
+  "author": "Backfeed Team",
+  "license": "GPL-3.0",
+  "bugs": {
+    "url": "https://github.com/Backfeed/slant-protocol/issues"
+  },
+  "homepage": "https://github.com/Backfeed/slant-protocol#readme",
+  "dependencies": {
+    "chakram": "1.2.2",
+    "immutable": "3.7.6",
+    "mathjs": "2.6.0",
+    "underscore": "1.8.3"
+  }
+}

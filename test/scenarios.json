@@ -1,0 +1,59 @@
+{
+
+  "1": {
+    "uid": 1,
+    "value": 1,
+    "evaluators": [
+      { "id": 1, "reputation": 0.2 }
+    ],
+    "evaluations": [
+      { "userId": 1, "value": 1 }
+    ],
+    "systemRep": 1
+  },
+
+  "2": {
+    "uid": 2,
+    "value": 0,
+    "evaluators": [
+      { "id": 1, "reputation": 0.197676 },
+      { "id": 2, "reputation": 0.2 }
+    ],
+    "evaluations": [
+      { "userId": 1, "value": 1 },
+      { "userId": 2, "value": 0 }
+    ],
+    "systemRep": 0.997676
+  },
+
+  "3": {
+    "uid": 1,
+    "value": 1,
+    "evaluators": [
+      { "id": 1, "reputation": 0.200938 }
+    ],
+    "evaluations": [
+      { "userId": 1, "value": 1 }
+    ],
+    "systemRep": 0.998624
+  },
+
+  "4": {
+    "uid": 3,
+    "value": 1,
+    "evaluators": [
+      { "id": 1, "reputation": 0.1986302261 },
+      { "id": 2, "reputation": 0.1976863823 },
+      { "id": 3, "reputation": 0.2 }
+    ],
+    "evaluations": [
+      { "userId": 3, "value": 1 },
+      { "userId": 1, "value": 1 },
+      { "userId": 2, "value": 0 }
+    ],
+    "systemRep": 0.996317
+  }
+
+
+
+}
