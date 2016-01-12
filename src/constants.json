@@ -1,6 +1,6 @@
 {
   "stake": 0.05,
   "alpha": 0.5,
-  "beta": 0.7,
+  "beta": 1,
   "roundTo": 6
 }
