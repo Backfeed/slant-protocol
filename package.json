@@ -1,6 +1,6 @@
 {
   "name": "backfeed-slant-protocol",
-  "version": "1.0.2",
+  "version": "1.0.3",
   "description": "Javascript implementation of slant protocol",
   "main": "src/index.js",
   "scripts": {
